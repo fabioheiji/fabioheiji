@@ -5,12 +5,12 @@ Hi guys!
 - Artificial Intelligence
 - Programming
 
-👨🏻‍💻 I'm currently studying System of Information in University of Sao Paulo Brazil but I've been a Supply Chain consultant for 10+ years. In the consultancy I'm expert in Supply Chain, Logistic, Forecast and Simulation. That's where my passion for programming, technology and AI awoke. I'm currently looking for a career change to the programming area, specifically in data sciences...Wish me luck! 🤞
+👨🏻‍💻 I'm currently pursuing a Master's in Information Systems at University of Sao Paulo (USP), specializing in Machine Learning, but I've been a Supply Chain consultant for 10+ years. In the consultancy I'm expert in Machine Learning, Supply Chain, Logistic, Forecast and Simulation. That's where my passion for programming, technology and AI awoke.
 
 So, most of my repositories would have:
 - Python
-- Java
-- HTML, JS and CSS are still in the learning phase...
+- React
+- HTML, JS and CSS...
 
 ☝️ And, feel free to create a pull request to contribute to any of my repositories.
 
